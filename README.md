@@ -8,6 +8,3 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-# X6525B-DeviceTree
-# X6525B-DeviceTree
-# X6525B-DeviceTree
