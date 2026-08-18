@@ -12,12 +12,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Inherit from Infinix-X6525B device
-$(call inherit-product, device/infinix/Infinix-X6525B/device.mk)
+$(call inherit-product, device/infinix/X6525B/device.mk)
 
-PRODUCT_DEVICE := Infinix-X6525B
-PRODUCT_NAME := twrp_Infinix-X6525B
+PRODUCT_DEVICE := X6525B
+PRODUCT_NAME := twrp_X6525B
 PRODUCT_BRAND := Infinix
-PRODUCT_MODEL := Infinix X6525B
+PRODUCT_MODEL := Infinix SMART 8 Pro
 PRODUCT_MANUFACTURER := infinix
 
 PRODUCT_GMS_CLIENTID_BASE := android-infinix
